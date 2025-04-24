@@ -86,3 +86,17 @@
       ;
   
   }
+
+  h4 {
+    color: #4b3f72; /* Color corporativo */
+    padding-bottom: 10px;
+    border-bottom: 2px solid #ff9a76; /* Color acento */
+  }
+
+  .btn-primary {
+    background-color: #ff9a76;
+    border-color: #ff9a76;
+  }
+  .btn-primary:hover {
+    background-color: #e08b67;
+  }
